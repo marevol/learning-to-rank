@@ -102,6 +102,7 @@
 
 ### 2019
 
+- MacAvaney, Sean, et al. "[Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.](https://arxiv.org/pdf/2004.14255.pdf)" arXiv preprint arXiv:2004.14255 (2020). [code](https://github.com/Georgetown-IR-Lab/prettr-neural-ir)?
 - Pasumarthi, Rama Kumar, et al. "[Tf-ranking: Scalable tensorflow library for learning-to-rank.](https://arxiv.org/pdf/1812.00073.pdf)" Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.
 
 ## Software
@@ -117,6 +118,7 @@
 - [Metric Learning to Rank](https://github.com/bmcfee/mlr)
 - [Lerot](https://bitbucket.org/ilps/lerot/src/master/)
 - [xapian-letor](https://github.com/xapian/xapian/tree/master/xapian-letor)
+- [OpenNIR](https://opennir.net/)
 
 ## Dataset
 
