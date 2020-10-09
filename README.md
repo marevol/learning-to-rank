@@ -102,8 +102,12 @@
 
 ### 2019
 
-- MacAvaney, Sean, et al. "[Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.](https://arxiv.org/pdf/2004.14255.pdf)" arXiv preprint arXiv:2004.14255 (2020). [code](https://github.com/Georgetown-IR-Lab/prettr-neural-ir)?
 - Pasumarthi, Rama Kumar, et al. "[Tf-ranking: Scalable tensorflow library for learning-to-rank.](https://arxiv.org/pdf/1812.00073.pdf)" Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.
+
+### 2020
+
+- MacAvaney, Sean, et al. "[Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.](https://arxiv.org/pdf/2004.14255.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/Georgetown-IR-Lab/prettr-neural-ir)?
+- Bevendorff, Maik Fröbe1 Janek, et al. "[Sampling Bias Due to Near-Duplicates in Learning to Rank.](https://webis.de/downloads/publications/papers/webis_2020d.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/webis-de/SIGIR-20)
 
 ## Software
 
