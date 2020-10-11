@@ -128,7 +128,8 @@
 
 ## Dataset
 
-- [LETOR](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/)
+- [LETOR 3.0/4.0](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/)
+- [MSLR WEB10K/WEB30K](https://www.microsoft.com/en-us/research/project/mslr/)
 - [TREC QA Track Data](https://trec.nist.gov/data/qamain.html)
 
 ## Others
