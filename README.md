@@ -108,6 +108,7 @@
 
 - MacAvaney, Sean, et al. "[Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.](https://arxiv.org/pdf/2004.14255.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/Georgetown-IR-Lab/prettr-neural-ir)?
 - Zhuang, Honglei, et al. "[Feature transformation for neural ranking models.](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/03d9dbc56c3d1b19a611043a4cb72e227ebba249.pdf)" Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020.
+- Lucchese, Claudio, et al. "[Query-level Early Exit for Additive Learning-to-Rank Ensembles.](https://arxiv.org/pdf/2004.14641.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020.
 - Bevendorff, Maik Fröbe1 Janek, et al. "[Sampling Bias Due to Near-Duplicates in Learning to Rank.](https://webis.de/downloads/publications/papers/webis_2020d.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/webis-de/SIGIR-20)
 
 ## Software
