@@ -126,6 +126,7 @@
 - [Lerot](https://bitbucket.org/ilps/lerot/src/master/)
 - [xapian-letor](https://github.com/xapian/xapian/tree/master/xapian-letor)
 - [OpenNIR](https://opennir.net/)
+- [metarank](https://www.metarank.ai/)
 
 ## Dataset
 
