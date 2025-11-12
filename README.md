@@ -134,8 +134,10 @@ LTR algorithms can be categorized into three main approaches:
 
 ### 2020
 
+- Khattab, Omar, and Matei Zaharia. "[ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT.](https://arxiv.org/pdf/2004.12832.pdf)" Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020. [code](https://github.com/stanford-futuredata/ColBERT)
+- Karpukhin, Vladimir, et al. "[Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf)" Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2020. [code](https://github.com/facebookresearch/DPR)
 - Qu, Chen, et al. "[Contextual Re-Ranking with Behavior Aware Transformers.](http://ciir-publications.cs.umass.edu/getpdf.php?id=1383)" Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020.
-- MacAvaney, Sean, et al. "[Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.](https://arxiv.org/pdf/2004.14255.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/Georgetown-IR-Lab/prettr-neural-ir)?
+- MacAvaney, Sean, et al. "[Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.](https://arxiv.org/pdf/2004.14255.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/Georgetown-IR-Lab/prettr-neural-ir)
 - Zhuang, Honglei, et al. "[Feature transformation for neural ranking models.](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/03d9dbc56c3d1b19a611043a4cb72e227ebba249.pdf)" Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020.
 - Lucchese, Claudio, et al. "[Query-level Early Exit for Additive Learning-to-Rank Ensembles.](https://arxiv.org/pdf/2004.14641.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020.
 - Bevendorff, Maik Fröbe1 Janek, et al. "[Sampling Bias Due to Near-Duplicates in Learning to Rank.](https://webis.de/downloads/publications/papers/webis_2020d.pdf)" The 43st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2020. [code](https://github.com/webis-de/SIGIR-20)
@@ -143,12 +145,24 @@ LTR algorithms can be categorized into three main approaches:
 ### 2021
 
 - Qin, Zhen, et al. "[Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?](https://openreview.net/pdf?id=Ut1vF_q_vC)" International Conference on Learning Representations (ICLR). 2021.
+- Formal, Thibault, Benjamin Piwowarski, and Stéphane Clinchant. "[SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking.](https://arxiv.org/pdf/2107.05720.pdf)" Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [code](https://github.com/naver/splade)
+- Swezey, Robin, et al. "[PiRank: Scalable Learning To Rank via Differentiable Sorting.](https://arxiv.org/pdf/2012.06731.pdf)" Advances in Neural Information Processing Systems (NeurIPS). 2021.
+- Oosterhuis, Harrie. "[Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness.](https://arxiv.org/pdf/2105.05067.pdf)" Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. (Best Paper Award)
+- Hofstätter, Sebastian, et al. "[Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling.](https://arxiv.org/pdf/2104.06967.pdf)" Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021.
+- Gao, Luyu, Zhuyun Dai, and Jamie Callan. "[Rethink Training of BERT Rerankers in Multi-Stage Retrieval Pipeline.](https://arxiv.org/pdf/2101.08751.pdf)" European Conference on Information Retrieval (ECIR). 2021.
+- MacAvaney, Sean, Franco Maria Nardini, and Raffaele Perego. "[A Systematic Evaluation of Transfer Learning and Pseudo-labeling with BERT-based Ranking Models.](https://arxiv.org/pdf/2106.03699.pdf)" Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021.
+- Formal, Thibault, et al. "[A White Box Analysis of ColBERT.](https://arxiv.org/pdf/2101.05405.pdf)" European Conference on Information Retrieval (ECIR). 2021.
 
 ### 2022
 
+- Santhanam, Keshav, et al. "[ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction.](https://arxiv.org/pdf/2112.01488.pdf)" Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2022. [code](https://github.com/stanford-futuredata/ColBERT)
+- Formal, Thibault, et al. "[From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective.](https://arxiv.org/pdf/2205.04733.pdf)" Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [code](https://github.com/naver/splade)
 - Pobrotyn, Przemysław, et al. "[Learning Neural Ranking Models Online from Implicit User Feedback.](https://arxiv.org/pdf/2204.09118.pdf)" Proceedings of the ACM Web Conference 2022. 2022.
 - Khosla, Sopan, and Vinay Setty. "[Risk-Sensitive Deep Neural Learning to Rank.](https://dl.acm.org/doi/abs/10.1145/3477495.3532056)" Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
-- Rama Kumar Pasumarthi, et al. "[Learning-to-Rank at the Speed of Sampling.](https://dl.acm.org/doi/10.1145/3477495.3531842)" Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
+- Pasumarthi, Rama Kumar, et al. "[Learning-to-Rank at the Speed of Sampling.](https://dl.acm.org/doi/10.1145/3477495.3531842)" Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
+- Hofstätter, Sebastian, et al. "[Ensemble Distillation for BERT-Based Ranking Models.](https://arxiv.org/pdf/2107.11912.pdf)" Proceedings of the 2021 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR). 2021.
+- Lassance, Carlos, et al. "[Learned Token Pruning in Contextualized Late Interaction over BERT (ColBERT).](https://arxiv.org/pdf/2203.07785.pdf)" Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
+- Yang, Tao, et al. "[Can clicks be both labels and features? Unbiased Behavior Feature Collection and Uncertainty-aware Learning to Rank.](https://arxiv.org/pdf/2203.11063.pdf)" Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022.
 
 ### 2023
 
@@ -158,9 +172,11 @@ LTR algorithms can be categorized into three main approaches:
 
 ### 2024
 
+- Khramtsova, Ekaterina, et al. "[Leveraging LLMs for Unsupervised Dense Retriever Ranking.](https://arxiv.org/pdf/2402.04853.pdf)" Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024. (Best Paper Award)
 - Borisyuk, Fedor, et al. "[LiRank: Industrial Large Scale Ranking Models at LinkedIn.](https://arxiv.org/pdf/2402.06859.pdf)" Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2024.
 - Huang, Xuyang, et al. "[Unbiased Learning-to-Rank Needs Unconfounded Propensity Estimation.](https://dl.acm.org/doi/10.1145/3626772.3657772)" Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024.
 - Jagerman, Rolf, et al. "[Unbiased Learning to Rank: On Recent Advances and Practical Applications.](https://dl.acm.org/doi/abs/10.1145/3616855.3636451)" Proceedings of the 17th ACM International Conference on Web Search and Data Mining. 2024.
+- Liu, Yu-An, et al. "[Multi-granular Adversarial Attacks against Black-box Neural Ranking Models.](https://arxiv.org/pdf/2404.01574.pdf)" Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024.
 
 ### 2025
 
